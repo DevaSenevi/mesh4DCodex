@@ -1,0 +1,43 @@
+# Table of contents
+# Learn more at https://jupyterbook.org/customize/toc.html
+
+format: jb-book
+root: index
+parts:
+- caption: References
+  chapters:
+  - file: book/references/notebooks
+  - file: book/references/markdown
+  - file: book/references/testMyST
+  - file: book/references/syntaxExtensions
+  - file: book/references/bibliography
+
+
+
+#######Below is the example format for a toc file both as chapters and sections#######
+
+#format: jb-book
+#root: index
+#chapters:
+#  - file: book/analysis_steps 
+#  - file: book/trabeculae_models
+#  - file: book/4Dsurvival_PH/4Dsurvival_ph
+#  - file: book/notebooks
+#  - file: book/markdown
+#  - file: book/testMyST
+#  - file: book/bibliography
+  
+    
+# Or you organize the TOC by parts
+
+# parts:
+#   - caption: Chapters
+#     numbered: true
+#     maxdepth: 2
+#     chapters:
+#       - file: book/markdown
+#       - file: book/notebooks
+#   - caption: Appendices
+#     chapters:
+#       - file: book/bibliography
+
