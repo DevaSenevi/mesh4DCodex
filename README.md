@@ -1,8 +1,8 @@
-# mesh4D documentation repo
+# Documentation repo for mesh4D and related works
 
 ## Table of contents
 
-- [mesh4D documentation repo](#mesh4d-documentation-repo)
+- [Documentation repo for mesh4D and related works](#documentation-repo-for-mesh4d-and-related-works)
   - [Table of contents](#table-of-contents)
   - [Introduction](#introduction)
   - [Starting a Notebook](#starting-a-notebook)
